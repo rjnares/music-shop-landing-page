@@ -7,7 +7,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 15px 200px 100px;
+  padding: 15px 200px;
   background-color: #1F2937;
 }
 
@@ -36,7 +36,49 @@ a {
 }
 
 a:hover {
-  color: #A3A4A8;;
+  color: #A3A4A8;
 }
 
+.hero {
+  display: flex;
+  background-color: #1F2937;
+  padding: 100px 200px;
+  gap: 40px;
+}
 
+.hero-info,
+.hero-image {
+  flex: 1;
+}
+
+.hero-image {
+  border: 1px solid #F9FAF8;
+}
+
+.hero-main {
+  font-size: 48px;
+  font-weight: 900;
+  color: #F9FAF8;
+}
+
+h1 {
+  margin: 0;
+}
+
+p {
+  margin: 10px 0;
+}
+
+.hero-button {
+  padding: 8px 35px;
+  background-color: #3882F6;
+  color: #F9FAF8;
+  font-size: 18px;
+  font-weight: 900;
+  border-style: none;
+  border-radius: 8px;
+}
+
+.hero-button:hover {
+  background-color: #518ff3;
+}
