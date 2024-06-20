@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: Arial, sans-serif;
+  font-family: "Roboto", Arial, sans-serif;
 }
 
 .header {
@@ -28,7 +28,7 @@ ul {
 .secondary {
   color: #E5E7EB;
   font-size: 18px;
-  font-weight:100;
+  font-weight:400;
 }
 
 a {
