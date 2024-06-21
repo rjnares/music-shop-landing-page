@@ -136,3 +136,37 @@ p {
   font-weight: 300;
   font-style: italic;
 }
+
+.action {
+  padding: 100px 200px;
+}
+
+.sign-up-container {
+  background-color: #3882F6;
+  padding: 50px 100px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sign-up-text {
+  display: flex;
+  flex-direction: column;
+  color: #F9FAF8;
+  font-size: 24px;
+  font-weight: 900;
+}
+
+.sign-up-button {
+  background-color: #3882F6;
+  border: 2px solid #F9FAF8;
+  color: #F9FAF8;
+  font-size: 18px;
+  font-weight: 900;
+  border-radius: 8px;
+  padding: 8px 35px;
+}
+
+.sign-up-button:hover {
+  background-color: #518ff3;
+}
