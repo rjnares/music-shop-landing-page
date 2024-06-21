@@ -51,8 +51,8 @@ a:hover {
   flex: 1;
 }
 
-.hero-image {
-  border: 1px solid #F9FAF8;
+.hero-image > img {
+  max-width: 100%;
 }
 
 .hero-main {
