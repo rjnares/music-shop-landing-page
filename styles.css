@@ -111,13 +111,13 @@ p {
   flex-direction: column;
   gap: 10px;
   color: #1F2937;
+  flex: 1;
 }
 
-.instrument {
+.instrument img {
   border: 5px solid #518ff3;
   border-radius: 15px;
-  min-height: 250px;
-  min-width: 250px;
+  max-width: 100%;
 }
 
 .testimonial {
