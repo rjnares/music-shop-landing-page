@@ -23,3 +23,8 @@ Credit to the following individuals for the free-to-use images used in this proj
 * [Kari Shea](https://unsplash.com/@karishea) - [White and Black Electric Bass Guitar on White Surface](https://unsplash.com/photos/white-and-black-electric-bass-guitar-on-white-surface-laHwVPkMTzY)
 
 * [Barthy Bonhomme](https://www.pexels.com/@barthy/) - [Black Electronic Keyboard](https://www.pexels.com/photo/black-electronic-keyboard-185029/)
+
+
+## Live View
+
+Click [here](https://rjnares.github.io/music-shop-landing-page/) for a live view of this project.
